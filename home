@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+<style>
+<img src="">
+</img>
+<h1>{
+    text-align: center;
+}
+body{
+    text-align: center;
+    background: black;
+    color: orange;
+    font-family: Helvetica;
+}
+</style>
+</head>
+<body>
+<h1>Mengzhen Shi</h1>
+<p>Holle! My name is Mengzhen Shi</p>
+<input type="email"placeholder="Email"><input type="submit">
+</body>
